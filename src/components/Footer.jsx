@@ -15,10 +15,10 @@ const Footer = () => {
         <div className=''>
           <p>QUICK LINKS</p>
          <div className='flex flex-col text-start mb-4 md:mb-0'>
-          <a href="#" className='block md:inline-block py-2 hover:text-gray-500'>HOME</a>
-          <a href="#" className='block md:inline-block py-2 hover:text-gray-500'>ABOUT</a>
-          <a href="#" className='block md:inline-block py-2 hover:text-gray-500'>RECIPES</a>
-          <a href="#" className='block md:inline-block py-2 hover:text-gray-500'>CONTACT</a>
+          <a href="/calorie-check" className='block md:inline-block py-2 hover:text-gray-500'>HOME</a>
+          <a href="/calorie-check" className='block md:inline-block py-2 hover:text-gray-500'>ABOUT</a>
+          <a href="/calorie-check" className='block md:inline-block py-2 hover:text-gray-500'>RECIPES</a>
+          <a href="/calorie-check" className='block md:inline-block py-2 hover:text-gray-500'>CONTACT</a>
 
          </div>
 
@@ -27,10 +27,10 @@ const Footer = () => {
         <div className=''>
           <p>LEGAL</p>
          <div className='flex flex-col text-start mb-4 md:mb-0'>
-          <a href="#" className='block md:inline-block py-2 hover:text-gray-500'>Terms and conditions</a>
-          <a href="#" className='block md:inline-block py-2 hover:text-gray-500'>licence agreement</a>
-          <a href="#" className='block md:inline-block py-2 hover:text-gray-500'>Privacy Police</a>
-          <a href="#" className='block md:inline-block py-2 hover:text-gray-500'>Cookie Police</a>
+          <a href="/" className='block md:inline-block py-2 hover:text-gray-500'>Terms and conditions</a>
+          <a href="/" className='block md:inline-block py-2 hover:text-gray-500'>licence agreement</a>
+          <a href="/" className='block md:inline-block py-2 hover:text-gray-500'>Privacy Police</a>
+          <a href="/" className='block md:inline-block py-2 hover:text-gray-500'>Cookie Police</a>
 
          </div>
 

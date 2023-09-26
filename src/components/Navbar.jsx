@@ -13,13 +13,13 @@ const Navbar = () => {
             </a>
             <ul className='hidden  md:flex text-white gap-9 '>
                 <li>
-                    <a href="/">Home</a>
+                    <a href="/calorie-check">Home</a>
                 </li>
                 <li>
-                    <a href="/">Explore</a>
+                    <a href="/calorie-check">Explore</a>
                 </li>
                 <li>
-                    <a href="/">Favourite</a>
+                    <a href="/calorie-check">Favourite</a>
                 </li>
             </ul>
 
@@ -32,13 +32,13 @@ const Navbar = () => {
         <div className={` ${open ? 'flex' : "hidden"}`} >
             <ul className='flex flex-col gap-6 text-white items-center justify-center mx-auto mt-10' >
                 <li className='text-lg'>
-                    <a href="">Home</a>
+                    <a href="/calorie-check">Home</a>
                 </li>
                 <li className='text-lg'>
-                    <a href="">Explore</a>
+                    <a href="/calorie-check">Explore</a>
                 </li>
                 <li className='text-lg'>
-                    <a href="">Favourite</a>
+                    <a href="/calorie-check">Favourite</a>
                 </li>
             </ul>
 

@@ -19,7 +19,7 @@ function App() {
     <div className='bg-black'>
       <Routes>
         <Route path='/' element={<Layout />}>
-          <Route index element={<Home />} />
+          <Route  index element={<Home />} />
           <Route path='recipes/:id' element={<RecipeDetails />} />
         </Route>
       </Routes>
