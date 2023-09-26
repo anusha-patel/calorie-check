@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/calorie-check/static/css/main.bcd1f7a0.css",
-    "main.js": "/calorie-check/static/js/main.e9aedda8.js",
+    "main.js": "/calorie-check/static/js/main.c72c7707.js",
     "static/js/787.e4ef895a.chunk.js": "/calorie-check/static/js/787.e4ef895a.chunk.js",
     "static/media/banner4.avif": "/calorie-check/static/media/banner4.976cbb16117de1f1512d.avif",
     "static/media/banner3.avif": "/calorie-check/static/media/banner3.832f957cf40f16b2a232.avif",
@@ -11,11 +11,11 @@
     "static/media/logo.avif": "/calorie-check/static/media/logo.cd51f054403ee7ffaadb.avif",
     "index.html": "/calorie-check/index.html",
     "main.bcd1f7a0.css.map": "/calorie-check/static/css/main.bcd1f7a0.css.map",
-    "main.e9aedda8.js.map": "/calorie-check/static/js/main.e9aedda8.js.map",
+    "main.c72c7707.js.map": "/calorie-check/static/js/main.c72c7707.js.map",
     "787.e4ef895a.chunk.js.map": "/calorie-check/static/js/787.e4ef895a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bcd1f7a0.css",
-    "static/js/main.e9aedda8.js"
+    "static/js/main.c72c7707.js"
   ]
 }
